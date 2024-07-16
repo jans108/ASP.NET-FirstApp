@@ -26,3 +26,5 @@ D:\GitHubProjects\ASP.NET-FirstApp\BethanysPieShop\BethanysPieShop\obj\Debug\net
 D:\GitHubProjects\ASP.NET-FirstApp\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.pdb
 D:\GitHubProjects\ASP.NET-FirstApp\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.genruntimeconfig.cache
 D:\GitHubProjects\ASP.NET-FirstApp\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\ref\BethanysPieShop.dll
+D:\GitHubProjects\ASP.NET-FirstApp\BethanysPieShop\BethanysPieShop\bin\Debug\net8.0\libman.json
+D:\GitHubProjects\ASP.NET-FirstApp\BethanysPieShop\BethanysPieShop\bin\Debug\net8.0\BethanysPieShop.staticwebassets.runtime.json
