@@ -7,32 +7,44 @@
       "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\pie\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\viewmodels\\pielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\viewmodels\\pielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\viewmodels\\pielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\viewmodels\\pielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\models\\mockpierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\mockpierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\models\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\models\\mockpierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\mockpierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\models\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,28 +66,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pie.cs",
-              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\Pie.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Pie.cs",
-              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\Pie.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\Pie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:33:34.213Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T15:24:41.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T15:17:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T15:12:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Pie.cs",
+              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\Pie.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Pie.cs",
+              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\Pie.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\Pie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:33:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PieListViewModel.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\ViewModels\\PieListViewModel.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\ViewModels\\PieListViewModel.cs",
@@ -94,14 +145,14 @@
               "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Pie\\List.cshtml",
               "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Views\\Pie\\List.cshtml",
               "RelativeToolTip": "BethanysPieShop\\Views\\Pie\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-15T16:53:05.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "PieController.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Controllers\\PieController.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\PieController.cs",
@@ -109,24 +160,24 @@
               "RelativeToolTip": "BethanysPieShop\\Controllers\\PieController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T12:13:46.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T12:13:46.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MockPieRepository.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\MockPieRepository.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Models\\MockPieRepository.cs",
               "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\MockPieRepository.cs",
               "RelativeToolTip": "BethanysPieShop\\Models\\MockPieRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwAwAAADPAwAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T11:19:39.006Z"
+              "WhenOpened": "2024-07-15T11:19:39.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MockCategoryRepository.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\MockCategoryRepository.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Models\\MockCategoryRepository.cs",
@@ -134,23 +185,25 @@
               "RelativeToolTip": "BethanysPieShop\\Models\\MockCategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T11:14:54.596Z"
+              "WhenOpened": "2024-07-15T11:14:54.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Models\\ICategoryRepository.cs",
               "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\ICategoryRepository.cs",
               "RelativeToolTip": "BethanysPieShop\\Models\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T11:13:41.404Z"
+              "WhenOpened": "2024-07-15T11:13:41.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "IPieRepository.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\IPieRepository.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Models\\IPieRepository.cs",
@@ -162,19 +215,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Category.cs",
               "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Models\\Category.cs",
               "RelativeToolTip": "BethanysPieShop\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T11:05:35.293Z"
+              "WhenOpened": "2024-07-15T11:05:35.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\appsettings.json",
               "RelativeDocumentMoniker": "BethanysPieShop\\appsettings.json",
@@ -186,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Program.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Program.cs",
