@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BethanysPieShopTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c3c8dbf084f598e5875960fbed5f5d899208f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f585747b9a469e9f469bbae3fd01ac6b69fea3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BethanysPieShopTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BethanysPieShopTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
