@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62DD5DC2-115B-426C-8855-D3C768CEDE4E}|BethanysPieShopTests\\BethanysPieShopTests.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshoptests\\taghelpers\\emailtaghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DD5DC2-115B-426C-8855-D3C768CEDE4E}|BethanysPieShopTests\\BethanysPieShopTests.csproj|solutionrelative:bethanyspieshoptests\\taghelpers\\emailtaghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\controllers\\api\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\api\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DD5DC2-115B-426C-8855-D3C768CEDE4E}|BethanysPieShopTests\\BethanysPieShopTests.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshoptests\\controllers\\piecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DD5DC2-115B-426C-8855-D3C768CEDE4E}|BethanysPieShopTests\\BethanysPieShopTests.csproj|solutionrelative:bethanyspieshoptests\\controllers\\piecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DD5DC2-115B-426C-8855-D3C768CEDE4E}|BethanysPieShopTests\\BethanysPieShopTests.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshoptests\\mocks\\repositorymocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DD5DC2-115B-426C-8855-D3C768CEDE4E}|BethanysPieShopTests\\BethanysPieShopTests.csproj|solutionrelative:bethanyspieshoptests\\mocks\\repositorymocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|d:\\githubprojects\\asp.net-firstapp\\bethanyspieshop\\bethanyspieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B1CE83-B4AA-4D7C-8FE5-3C6C2B597921}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,52 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmailTagHelperTests.cs",
-              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShopTests\\TagHelpers\\EmailTagHelperTests.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopTests\\TagHelpers\\EmailTagHelperTests.cs",
-              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShopTests\\TagHelpers\\EmailTagHelperTests.cs",
-              "RelativeToolTip": "BethanysPieShopTests\\TagHelpers\\EmailTagHelperTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBoAAAAUAAAAAAAAAA==",
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T16:07:16.897Z",
+              "WhenOpened": "2024-08-19T17:27:18.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmailTagHelper.cs",
-              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
-              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
-              "RelativeToolTip": "BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Program.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Program.cs",
+              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShop\\Program.cs",
+              "RelativeToolTip": "BethanysPieShop\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T16:03:28.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositoryMocks.cs",
-              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShopTests\\Mocks\\RepositoryMocks.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopTests\\Mocks\\RepositoryMocks.cs",
-              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShopTests\\Mocks\\RepositoryMocks.cs",
-              "RelativeToolTip": "BethanysPieShopTests\\Mocks\\RepositoryMocks.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T15:38:49.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PieControllerTests.cs",
-              "DocumentMoniker": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShopTests\\Controllers\\PieControllerTests.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopTests\\Controllers\\PieControllerTests.cs",
-              "ToolTip": "D:\\GitHubProjects\\ASP.NET-FirstApp\\BethanysPieShop\\BethanysPieShopTests\\Controllers\\PieControllerTests.cs",
-              "RelativeToolTip": "BethanysPieShopTests\\Controllers\\PieControllerTests.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T15:36:25.634Z",
+              "WhenOpened": "2024-08-19T17:22:20.815Z",
               "EditorCaption": ""
             }
           ]
