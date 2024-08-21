@@ -1,3 +1,4 @@
+using BethanysPieShop.App;
 using BethanysPieShop.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
@@ -20,6 +21,9 @@ builder.Services.AddControllersWithViews()
 
 
 builder.Services.AddRazorPages();
+builder.Services.AddRazorComponents()
+    .AddInteractiveServerComponents();
+
 builder.Services.AddDbContext<BethanysPieShopDbContext>(options =>
 {
     options.UseSqlServer(
@@ -31,13 +35,26 @@ var app = builder.Build();
 app.UseStaticFiles();
 app.UseSession();
 
+app.UseAuthentication();
+app.UseAuthorization();
+
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
 }
 
-app.MapDefaultControllerRoute();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+//app.MapDefaultControllerRoute();
+
+app.UseAntiforgery();
+
 app.MapRazorPages();
+
+app.MapRazorComponents<App>()
+    .AddInteractiveServerRenderMode();
 
 DbInitializer.Seed(app);
 app.Run();

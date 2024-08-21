@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BethanysPieShop
 build_property.RootNamespace = BethanysPieShop
@@ -17,6 +25,62 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\GitHubProjects\ASP.NET-FirstApp\BethanysPieShop\BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/App/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/App/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXExheW91dFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/App/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXExheW91dFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/App/Pages/PieCard.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXFBhZ2VzXFBpZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/App/Pages/SearchBlazor.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXFBhZ2VzXFNlYXJjaEJsYXpvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/App/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXFJvdXRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Areas/Identify/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpZnlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Areas/Identify/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpZnlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Areas/Identify/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpZnlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Areas/Identify/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpZnlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Areas/Identify/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpZnlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Areas/Identify/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpZnlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Areas/Identify/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpZnlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHubProjects/ASP.NET-FirstApp/BethanysPieShop/BethanysPieShop/Pages/CheckoutCompletePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRDb21wbGV0ZVBhZ2UuY3NodG1s
