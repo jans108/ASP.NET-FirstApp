@@ -30,6 +30,8 @@ builder.Services.AddDbContext<BethanysPieShopDbContext>(options =>
         builder.Configuration["ConnectionStrings:BethanysPieShopDbContextConnection"]);
 });
 
+builder.Services.AddServerSideBlazor();
+
 var app = builder.Build();
 
 app.UseStaticFiles();
